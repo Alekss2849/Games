@@ -1,0 +1,11 @@
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\bin\Debug\netcoreapp2.0\Model.runtimeconfig.json
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\bin\Debug\netcoreapp2.0\Model.runtimeconfig.dev.json
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\bin\Debug\netcoreapp2.0\Model.dll
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\bin\Debug\netcoreapp2.0\Model.pdb
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\obj\Debug\netcoreapp2.0\Model.csprojResolveAssemblyReference.cache
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\obj\Debug\netcoreapp2.0\Model.dll
+G:\Lessons\C#\Alexandr_KPI\Quoridor\Model\obj\Debug\netcoreapp2.0\Model.pdb
